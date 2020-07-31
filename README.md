@@ -11,8 +11,9 @@ Please read the instructions fully and carefully. Feel free to get in touch with
 - The test may feel ambiguous at points because we want you to feel obligated to make design decisions. In real life you will often find this to be the case.
 - Do not feel discouraged if you don't know how to do something immediately. Learning quickly and figuring things out are valuable skills that are also being evaluated.
 - Keep it honest. You may very well face a situation like this on your first day at ZeBrands, so while you should feel free to search the internet for help, having someone else complete the test for you benefits no one.
-- Don't give up. Let us know if you need more time. However, incomplete tests are still considered.
-- Please do not think of this as an exam but rather a demo for your skills in building an actual working product. We´re not looking for technical perfection or theorethical depth (although both are benefitial).
+- Don't give up. Let us know if you need more time.
+- Incomplete tests are still evaluated for partial credit.
+- Please do not think of this as an exam but rather a demo for your skills in building an actual working product. We´re not looking for technical perfection or theoretical depth (although both are benefitial).
 
 ## Scenario
 
